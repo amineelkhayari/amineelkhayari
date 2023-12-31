@@ -7,18 +7,6 @@
 
 <br/>
 <h3 align="center">I'm software engineer I have experience working for small and medium companies I have also worked with various projects using multiple Backend such as PHP with Framworks, Net frameworks</h3>
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/amineelkhayari/amineelkhayari/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelkhayari&label=Profile%20views&color=0e75b6&style=flat" alt="amineelkhayari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineelkhayari" alt="amineelkhayari" /></a> </p>
