@@ -7,7 +7,6 @@
 
 <br/>
 <h3 align="center">I'm software engineer I have experience working for small and medium companies I have also worked with various projects using multiple Backend such as PHP with Framworks, Net frameworks</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amineelkhayari&label=Profile%20views&color=0e75b6&style=flat" alt="amineelkhayari" /> </p>
 <div align="center"> 
   <a href="mailto:aminelkayari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -48,3 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amineelkhayari&show_icons=true&locale=en" alt="amineelkhayari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineelkhayari&" alt="amineelkhayari" /></p>
+<p align="center" width="100%"> <img src="https://komarev.com/ghpvc/?username=amineelkhayari&label=Profile%20views&color=0e75b6&style=flat" alt="amineelkhayari" /> </p>
+
