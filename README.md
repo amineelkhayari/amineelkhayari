@@ -6,21 +6,24 @@
    </thead>
     <tbody>
          <tr>
-        <th>Js Framwork</th>
-            <td>Node js</td>
-            <td>Angular</td>
-            <td>React Native</td>
-            <td>Vue Js</td>
+        <th>Back End</th>
+            <td>PHP</td>
+            <td>.NET</td>
+            <td></td>
+            <td></td>
     </tr>
        <tr>
-        <th>Php framwork</th>
-            <td>laravel</td>
-            <td>Simfony</td>
+        <th>Front End</th>
+            <td>Html, Css</td>
+            <td>React</td>
+            <td>Angular</td>
+            <td>Vue</td>
     </tr>
         <tr>
-        <th>net</th>
-            <td>laravel</td>
-            <td>Simfony</td>
+        <th>SGBD</th>
+            <td>SQL SERVER</td>
+            <td>MYSQL</td>
+            <td>ORACLE</td>
     </tr>
     </tbody>
 </table>
