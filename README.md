@@ -8,10 +8,19 @@
          <tr>
         <th>Js Framwork</th>
             <td>Node js</td>
-            <td>React js</td>
+            <td>Angular</td>
+            <td>React Native</td>
+            <td>Vue Js</td>
     </tr>
        <tr>
         <th>Php framwork</th>
+            <td>laravel</td>
+            <td>Simfony</td>
+    </tr>
+        <tr>
+        <th>net</th>
+            <td>laravel</td>
+            <td>Simfony</td>
     </tr>
     </tbody>
 </table>
