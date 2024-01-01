@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-     <a href="https://codepen.io/amine-elkhayari" target="_blank">
+<a href="https://codepen.io/amine-elkhayari" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-333333?style=for-the-badge&logo=codepen&logoColor=cyan" target="_blank" />
   </a>
  
