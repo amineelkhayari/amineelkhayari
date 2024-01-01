@@ -6,7 +6,10 @@
    </thead>
     <tbody>
          <tr>
-        <th>1</th>
+        <th>Js Framwork</th>
+    </tr>
+       <tr>
+        <th>Php framwork</th>
     </tr>
     </tbody>
 </table>
