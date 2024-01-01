@@ -69,11 +69,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
         
 </div>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=amineelkhayari&row=2&column=4" alt="amineelkhayari" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=amineelkhayari&row=2&column=4" alt="amineelkhayari" /></p>
 
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amineelkhayari&show_icons=true&locale=en&layout=compact" alt="amineelkhayari" /></p>
+<p> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amineelkhayari&show_icons=true&locale=en&layout=compact" alt="amineelkhayari" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineelkhayari" alt="amineelkhayari" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amineelkhayari&show_icons=true&locale=en" alt="amineelkhayari" /></p>
 
