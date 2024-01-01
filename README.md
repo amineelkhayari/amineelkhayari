@@ -1,32 +1,4 @@
-<table>
-   <thead>
-        <tr>
-        <th>1</th>
-    </tr>
-   </thead>
-    <tbody>
-         <tr>
-        <th>Back End</th>
-            <td>PHP</td>
-            <td>.NET</td>
-            <td></td>
-            <td></td>
-    </tr>
-       <tr>
-        <th>Front End</th>
-            <td>Html, Css</td>
-            <td>React</td>
-            <td>Angular</td>
-            <td>Vue</td>
-    </tr>
-        <tr>
-        <th>SGBD</th>
-            <td>SQL SERVER</td>
-            <td>MYSQL</td>
-            <td>ORACLE</td>
-    </tr>
-    </tbody>
-</table>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AMINE+EL+KHAYARI!;" />
 </h1>
