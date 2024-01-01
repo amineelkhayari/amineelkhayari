@@ -19,7 +19,6 @@
 
  <hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineelkhayari" alt="amineelkhayari" /></a> </p>
 
 - 🔭 I’m currently working on [WEB API - PHP](https://rapidapi.com/portamine781/api/fast-tubedown-videos-api/)
 
