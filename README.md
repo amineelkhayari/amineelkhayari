@@ -7,6 +7,8 @@
     <tbody>
          <tr>
         <th>Js Framwork</th>
+            <td>Node js</td>
+            <td>React js</td>
     </tr>
        <tr>
         <th>Php framwork</th>
