@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software developer from Morocco MA</h3>
 
 <br/>
-<h3 align="center">I'm software engineer I have experience working for small and medium companies I have also worked with various projects using multiple Backend such as PHP with Framworks, Net frameworks</h3>
+<h3 align="center">Passionate Full Stack Developer with expertise in .NET, Angular, and Agile methodologies. I specialize in building responsive websites, APIs, and scalable solutions while staying ahead of emerging tech trends. Curious and adaptable, I enjoy tackling challenges that push my skills and deliver value-driven results.</h3>
 <div align="center"> 
   <a href="mailto:aminelkayari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
